@@ -16,7 +16,7 @@ I am a 3rd-year Information Technology student at **Arab Open University (AOU)**
 - **Version Control:** Git, GitHub.
 
 ### 📬 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/ahmed-shabana) *(تأكد من وضع رابط بروفايلك هنا)*
+- [LinkedIn](https://www.linkedin.com/in/ahmed-shabana)
 - [Email](mailto:ahmmed.mohamed.it@gmail.com)
 
 ---
