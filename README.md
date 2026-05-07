@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ahmed Shabana 👋
 
-<!--
-**AhmedShabana-IT/AhmedShabana-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 IT Student | Aspiring DevOps Engineer | Automation Enthusiast
 
-Here are some ideas to get you started:
+I am a 3rd-year Information Technology student at **Arab Open University (AOU)**, passionate about bridge the gap between **Network Infrastructure** and **System Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently focusing on **Cisco Networking (T216A)** and **Interactive Web Systems (TT284)**.
+- 🛠️ Building automated workflows with **Make.com** to optimize digital tasks.
+- 🚀 On a journey to master the **DevOps** roadmap and CI/CD concepts.
+- 🌍 Based in Sharqia, Egypt.
+
+### 🛠️ Tech Stack & Tools
+- **Networking:** Cisco Packet Tracer, Routing & Switching, Subnetting.
+- **Automation:** Make.com (Integromat), Workflow Logic.
+- **Web Development:** HTML5, CSS3, Web 2.0 Concepts.
+- **Version Control:** Git, GitHub.
+
+### 📬 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ahmed-shabana) *(تأكد من وضع رابط بروفايلك هنا)*
+- [Email](mailto:ahmmed.mohamed.it@gmail.com)
+
+---
+*"Automating the present, building the future."*
