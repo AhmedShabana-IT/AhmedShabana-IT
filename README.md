@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Shabana 👋
 
-### 👨‍💻 IT Student | Aspiring DevOps Engineer | Automation Enthusiast
+### 👨‍💻 DevOps Engineer | Cybersecurity Student @ AOU | Specialized in CI/CD, Containerization & Infrastructure as Code
 
 I am a 3rd-year Information Technology student at **Arab Open University (AOU)**, passionate about bridge the gap between **Network Infrastructure** and **System Automation**.
 
